@@ -8,7 +8,7 @@ Root Directory
 - **Project Proposal:**&nbsp; Submission for interest in developing a new non-uniform sampling method.
 - **Random Walk Theory Notes:**&nbsp; Hand-written notes about how aspects of random walk theory could be used.
 - **Algorithm Testing Results:**&nbsp; Data from various experiments for ideal variable conditions.
-- **Poster Presentation:**&nbsp; Poster created for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
+- **Poster Presentation:**&nbsp; Poster for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
 - **Random Walk Algorithm:**&nbsp; Final program for the random walk algorithm. 
 
 Experimental Data Directory
