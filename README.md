@@ -5,7 +5,7 @@ At the time of this project, my mathematical knowledge encompassed calculus, lin
 
 # Repository Files
 Root Directory
-- **Project Proposal:**&nbsp; Submission for interest in developing a new non-uniform sampling method.
+- **Project Proposal:**&nbsp; Original submission for interest in developing a new non-uniform sampling method.
 - **Random Walk Theory Notes:**&nbsp; Hand-written notes about how aspects of random walk theory could be used.
 - **Algorithm Testing Results:**&nbsp; Data from various experiments for ideal variable conditions.
 - **Poster Presentation:**&nbsp; Poster for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
