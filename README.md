@@ -22,8 +22,11 @@ Experimental Data Directory
 
 # Project Timeline
 This project progressed through various phases including:
-- Brainstorming (August-November 2024)
-- Preliminary Research (August-November 2024)
+- Brainstorming (August - November 2024)
 - Proposal Submission (November 2024)
-- (to be updated later)
+- Background Research (November 2024 - January 2025)
+- Code Implementation (January - February 2025)
+- Poster Completion (February 2025)
+- Project Documentation (February - April 2025)
+- Poster Presentation (April 2025)
 - Repository Creation (November 2026)
