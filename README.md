@@ -8,7 +8,7 @@ The goal of this project was to develop a new non-uniform sampling (NUS) algorit
 
 # Files
 Root Directory:
-- **Project Proposal:** Submission for interest in developing a new non-uniform sampling method.
+- <ins>Project Proposal:</ins> Submission for interest in developing a new non-uniform sampling method.
 - **Random Walk Theory Notes:** Hand-written notes about how aspects of random walk theory could be used.
 - **Algorithm Testing Results:** Data from various experiments for ideal variable conditions.
 - **Poster Presentation:** Poster created for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
