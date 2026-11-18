@@ -15,9 +15,9 @@ Root Directory:
 - Random Walk Algorithm: Final program for the random walk algorithm. 
 
 Experimental Data Directory:
-- Experiment 0 for Initial Condition Testing: This experiment tested every independent variable against strategy accuracy.
-- Experiment 1 for T Step Testing: This experiment investigated the correlation between number of steps T with strategy accuracy.
-- Experiment 2 for Optimal T Value: This experiment tested T against independent variables while control variables were fixed.
+- Experiment 0 for Initial Condition Testing: Data about every independent variable against strategy accuracy.
+- Experiment 1 for T Step Testing: Data about the correlation between number of steps T with strategy accuracy.
+- Experiment 2 for Optimal T Value: Data about the T value against independent variables while control variables were fixed.
 - Experiment 2 Control Set: The selected control variables based on Experiment 0 results.
 - Experiment 2 Condition List: The selected independent variable trials based on Experiments 0 and 1 results.
 - Optimal Conditions 2D NUS Distribution: Example of a 2D NUS distribution.
