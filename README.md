@@ -20,8 +20,8 @@ Experimental Data Directory:
 - <ins>Experiment 2 for Optimal T Value:</ins> Data about the T value against independent variables while control variables were fixed.
 - <ins>Experiment 2 Control Set:</ins> The selected control variables based on Experiment 0 results.
 - <ins>Experiment 2 Condition List:</ins> The selected independent variable trials based on Experiments 0 and 1 results.
-- <ins>Optimal Conditions 2D NUS Distribution:</ins> Example of a 2D NUS distribution with optimal conditions from Experiment 2.
-- <ins>Optimal Conditions 2D NUS Random Walks:</ins> Example of random walks on a 2D NUS distribution with optimal conditions from Experiment 2.
+- <ins>Optimal Conditions 2D NUS Distribution:</ins> Example of a 2D NUS distribution with optimal Experiment 2 conditions.
+- <ins>Optimal Conditions 2D NUS Random Walks:</ins> Example of random walks with optimal Experiment 2 conditons.
 
 # Timeline
 This project progressed through various phases including:
