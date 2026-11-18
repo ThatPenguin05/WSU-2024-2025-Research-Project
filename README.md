@@ -1,12 +1,9 @@
-# WSU-2024-2025-Research-Project
-From August 2024 to April 2025, I led an independent research project at Washington State University supervised by Dr. Tom Asaki. For this, I was awarded the Sidney G. Hacker scholarship for undergraduate mathematical research. I give my thanks to Dr. Tom Asaki for all his mentorship during this project.
-
-# About
+# Project Goal
 This independent research project took place during my sophomore year at Washington State University. The goal of this project was to develop a new non-uniform sampling (NUS) algorithm in arbitrary dimensions to find optimal distributions of low numbers of samples. The research was largely successful by utilizing random walk theory and Latin hypercube sampling to produce a high NUS strategy efficiency for a low number of samples.
 
 At the time of this project, my mathematical knowledge encompassed calculus, linear algebra, ordinary differential equations, and an introduction to mathematical logic. Since completing this project, I have taken courses in real analysis, algebraic structures, mathematical computing, statistics, and optimization. I am proud of the work I accomplished given my limited knowledge of optimization. If I were to approach this project now, I would use additional tools from non-linear optimization and stochastic processes, as well as mathematics I learned as a hobby from algebraic topology, homotopy theory, and theories of convex polytopes. 
 
-# Files
+# Repository Files
 Root Directory
 - **Project Proposal:**&nbsp; Submission for interest in developing a new non-uniform sampling method.
 - **Random Walk Theory Notes:**&nbsp; Hand-written notes about how aspects of random walk theory could be used.
@@ -23,7 +20,7 @@ Experimental Data Directory
 - **Optimal Conditions 2D NUS Distribution:**&nbsp; Example of a 2D NUS distribution with optimal Experiment 2 conditions.
 - **Optimal Conditions 2D NUS Random Walks:**&nbsp; Example of random walks with optimal Experiment 2 conditons.
 
-# Timeline
+# Project Timeline
 This project progressed through various phases including:
 - Brainstorming (August-November 2024)
 - Preliminary Research (August-November 2024)
