@@ -8,20 +8,20 @@ The goal of this project was to develop a new non-uniform sampling (NUS) algorit
 
 # Files
 Root Directory:
-- <ins>Project Proposal:</ins> Submission for interest in developing a new non-uniform sampling method.
-- <ins>Random Walk Theory Notes:</ins> Hand-written notes about how aspects of random walk theory could be used.
-- <ins>Algorithm Testing Results:</ins> Data from various experiments for ideal variable conditions.
-- <ins>Poster Presentation:</ins> Poster created for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
-- <ins>Random Walk Algorithm:</ins> Final program for the random walk algorithm. 
+- <ins>Project Proposal:</ins>  Submission for interest in developing a new non-uniform sampling method.
+- <ins>Random Walk Theory Notes:</ins>  Hand-written notes about how aspects of random walk theory could be used.
+- <ins>Algorithm Testing Results:</ins>  Data from various experiments for ideal variable conditions.
+- <ins>Poster Presentation:</ins>  Poster created for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
+- <ins>Random Walk Algorithm:</ins>  Final program for the random walk algorithm. 
 
 Experimental Data Directory:
-- <ins>Experiment 0 for Initial Condition Testing:</ins> Data about every independent variable against strategy accuracy.
-- <ins>Experiment 1 for T Step Testing:</ins> Data about the correlation between number of steps T with strategy accuracy.
-- <ins>Experiment 2 for Optimal T Value:</ins> Data about the T value against independent variables while control variables were fixed.
-- <ins>Experiment 2 Control Set:</ins> The selected control variables based on Experiment 0 results.
-- <ins>Experiment 2 Condition List:</ins> The selected independent variable trials based on Experiments 0 and 1 results.
-- <ins>Optimal Conditions 2D NUS Distribution:</ins> Example of a 2D NUS distribution with optimal Experiment 2 conditions.
-- <ins>Optimal Conditions 2D NUS Random Walks:</ins> Example of random walks with optimal Experiment 2 conditons.
+- <ins>Experiment 0 for Initial Condition Testing:</ins>  Every independent variable against strategy accuracy.
+- <ins>Experiment 1 for T Step Testing:</ins>  The correlation between number of steps T with strategy accuracy.
+- <ins>Experiment 2 for Optimal T Value:</ins>  The T value against independent variables while control variables were fixed.
+- <ins>Experiment 2 Control Set:</ins>  The selected control variables based on Experiment 0 results.
+- <ins>Experiment 2 Condition List:</ins>  The selected independent variable trials based on Experiments 0 and 1 results.
+- <ins>Optimal Conditions 2D NUS Distribution:</ins>  Example of a 2D NUS distribution with optimal Experiment 2 conditions.
+- <ins>Optimal Conditions 2D NUS Random Walks:</ins>  Example of random walks with optimal Experiment 2 conditons.
 
 # Timeline
 This project progressed through various phases including:
