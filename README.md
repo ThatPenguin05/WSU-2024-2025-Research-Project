@@ -2,19 +2,19 @@
 From August 2024 to April 2025, I led an independent research project at Washington State University supervised by Dr. Tom Asaki. For this, I was awarded the Sidney G. Hacker scholarship for undergraduate mathematical research. I give my thanks to Dr. Tom Asaki for all his mentorship during this project.
 
 # About
-The goal of this project was to develop a new non-uniform sampling (NUS) algorithm in arbitrary dimensions to find optimal ...
+This independent research project took place during my sophomore year at Washington State University. The goal of this project was to develop a new non-uniform sampling (NUS) algorithm in arbitrary dimensions to find optimal distributions of low numbers of samples. The research was largely successful by utilizing random walk theory and Latin hypercube sampling to produce a high NUS strategy efficiency for a low number of samples.
 
-(to be updated later, including details about what the project outcome was, the experiment method, and how strategy effectiveness was determined)
+At the time of this project, my mathematical knowledge encompassed calculus, linear algebra, ordinary differential equations, and an introduction to mathematical logic. Since completing this project, I have taken courses in real analysis, algebraic structures, mathematical computing, statistics, and optimization. I am proud of the work I accomplished given my limited knowledge of optimization. If I were to approach this project now, I would use additional tools from non-linear optimization and stochastic processes, as well as mathematics I learned as a hobby from algebraic topology, homotopy theory, and theories of convex polytopes. 
 
 # Files
-Root Directory:
+Root Directory
 - **Project Proposal:**&nbsp; Submission for interest in developing a new non-uniform sampling method.
 - **Random Walk Theory Notes:**&nbsp; Hand-written notes about how aspects of random walk theory could be used.
 - **Algorithm Testing Results:**&nbsp; Data from various experiments for ideal variable conditions.
 - **Poster Presentation:**&nbsp; Poster created for the Department of Mathematics and Statistics Scholarship Ceremony 2025.
 - **Random Walk Algorithm:**&nbsp; Final program for the random walk algorithm. 
 
-Experimental Data Directory:
+Experimental Data Directory
 - **Experiment 0 for Initial Condition Testing:**&nbsp; Every independent variable against strategy accuracy.
 - **Experiment 1 for T Step Testing:**&nbsp; The correlation between number of steps T with strategy accuracy.
 - **Experiment 2 for Optimal T Value:**&nbsp; The T value against independent variables while control variables were fixed.
